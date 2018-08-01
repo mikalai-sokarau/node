@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Supreme T-Shirt",
+      "brand": "Supreme",
+      "price": 99.99,
+      "options": [{ "color": "blue" }, { "size": "XL" }]
+    },
+    {
+      "id": 2,
+      "name": "Supreme T-Shirt - 2",
+      "brand": "Supreme - 2",
+      "price": 299.99,
+      "options": [{ "color": "red" }, { "size": "M" }]
+    },
+    {
+      "id": 3,
+      "name": "Supreme T-Shirt - 3",
+      "brand": "Supreme - 3",
+      "price": 399.99,
+      "options": [{ "color": "white" }, { "size": "L" }]
+    }
+  ],
+  "users": [
+    {
+      "name": "Henry",
+      "age": 15,
+      "birthday": "10 September"
+    },
+    {
+      "name": "Lloyd",
+      "age": 50,
+      "birthday": "15 September"
+    },
+    {
+      "name": "Mark",
+      "age": 40,
+      "birthday": "20 September"
+    }
+  ]
+}
